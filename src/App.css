@@ -1,0 +1,15 @@
+.movie-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filter {
+  margin: 20px;
+}
